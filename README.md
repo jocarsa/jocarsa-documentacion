@@ -223,5 +223,4 @@ LANG_MAP = {
 
 ## Licencia
 
-Añade aquí la licencia que prefieras (MIT, Apache-2.0, GPL, etc.).
-Si no tienes una aún, una opción habitual para scripts utilitarios es **MIT**.
+Licencia MIT
